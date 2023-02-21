@@ -1,2 +1,3 @@
 ale fajny plik tekstowy
 dziś jest piękny dzień, bo poznaję gita
+to jest zmiana bezpośrednio na branchu Release1
