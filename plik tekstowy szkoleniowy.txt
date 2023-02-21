@@ -1,2 +1,2 @@
-ale fajny plik
+ale fajny plik tekstowy
 dziś jest piękny dzień, bo poznaję gita
